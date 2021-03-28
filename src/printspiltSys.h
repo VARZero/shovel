@@ -1,1 +1,6 @@
-class SpiltScrn;
+class SpiltScrn{
+    private:
+        //
+    public:
+        //
+};
